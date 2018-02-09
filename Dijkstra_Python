@@ -1,5 +1,5 @@
 #用Dijkstra算法计算最短路径
-
+#学习使我快乐
 import networkx as nx
 #网络的构建
 G=nx.DiGraph()
